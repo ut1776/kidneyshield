@@ -1,0 +1,11 @@
+conservative_design_triage,design_signal_reason,record_count
+Uncertain — inspect full text,No sufficiently specific design signal,1433
+Possible preclinical/laboratory study,Preclinical phrase,187
+Likely case report/series,High title-level signal,77
+Likely review,Moderate title-level signal,74
+Possible randomized trial,Title-level trial signal,61
+Possible randomized trial,Abstract design phrase,61
+Likely review/meta-analysis,High title-level signal,48
+Possible observational study,Abstract design phrase,45
+Possible observational study,Title-level design signal,42
+Likely protocol,High title-level signal,10

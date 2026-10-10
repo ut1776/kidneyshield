@@ -1,0 +1,12 @@
+source_type,provisional_study_design,record_count
+ClinicalTrials.gov,"Registered trial — interventional, design unverified",883
+ClinicalTrials.gov,Registered trial — randomization signal,634
+ClinicalTrials.gov,Registered study — observational signal,103
+ClinicalTrials.gov,Registered study — design unclear,1
+PubMed,Design unclear — manual review,1404
+PubMed,Preclinical / laboratory signal,173
+PubMed,Case report / series signal,128
+PubMed,Observational study signal,127
+PubMed,Randomized trial signal,89
+PubMed,Review / meta-analysis signal,76
+PubMed,Protocol signal,41

@@ -1,0 +1,17 @@
+source_type,kidney_outcome_category,records_with_keyword_signal
+PubMed,eGFR / kidney function,625
+PubMed,Albuminuria / proteinuria,417
+PubMed,CKD progression,68
+PubMed,Kidney failure / ESKD,851
+PubMed,Acute kidney injury,102
+PubMed,Kidney-related mortality,2
+PubMed,Kidney histology / pathology,103
+PubMed,Safety / adverse events,244
+ClinicalTrials.gov,eGFR / kidney function,1009
+ClinicalTrials.gov,Albuminuria / proteinuria,205
+ClinicalTrials.gov,CKD progression,77
+ClinicalTrials.gov,Kidney failure / ESKD,445
+ClinicalTrials.gov,Acute kidney injury,54
+ClinicalTrials.gov,Kidney-related mortality,0
+ClinicalTrials.gov,Kidney histology / pathology,14
+ClinicalTrials.gov,Safety / adverse events,562

@@ -1,0 +1,11 @@
+source_type,screening_priority,record_count
+ClinicalTrials.gov,High — candidate drug and kidney outcome terms,1266
+ClinicalTrials.gov,Medium — candidate drug; kidney endpoint unclear,147
+ClinicalTrials.gov,Low — broad keyword signal,118
+ClinicalTrials.gov,Medium — candidate drug and kidney condition,56
+ClinicalTrials.gov,Medium — kidney condition and outcome; drug unclear,34
+PubMed,High — candidate drug and kidney outcome terms,1374
+PubMed,Medium — candidate drug; kidney endpoint unclear,340
+PubMed,Medium — candidate drug and kidney condition,153
+PubMed,Low — broad keyword signal,128
+PubMed,Medium — kidney condition and outcome; drug unclear,43
